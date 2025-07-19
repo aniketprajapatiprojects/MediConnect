@@ -1,0 +1,13 @@
+pyTelegramBotAPI
+python-dotenv
+flask
+Flask-SQLAlchemy
+flask-login
+langchain-google-genai
+langchain-community
+pypdf
+chromadb
+duckduckgo-search
+flask-cors
+matplotlib
+numpy
